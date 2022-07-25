@@ -1,4 +1,4 @@
-# view import this and number operators
+# view import this and number operator
 import this
 
 print(4 + 4)

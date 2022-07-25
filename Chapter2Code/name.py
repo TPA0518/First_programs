@@ -1,4 +1,4 @@
-# Enter name as variable and use title, lower, and upper methods
+# Enter name as variable and use title, lower, and upper method
 name = "thomas abraham"
 print(name.title())
 print(name.upper())

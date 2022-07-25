@@ -18,7 +18,7 @@ message = '"The greatest glory in living lies not in never falling,' \
           ' but in rising every time we fall."'
 
 print(famousPerson + " once said, " + message)
-# Display strip functionalities
+# Display strip functionality
 stripName = ' \tSteve \n\tBallmer'
 print(stripName.rstrip())
 print(stripName.lstrip())
