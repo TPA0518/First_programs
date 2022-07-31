@@ -1,4 +1,4 @@
-#Code to learn lists
+#Code to learn lists.
 
 bicycles = ['trek', 'cannondale',  'redline', 'specialized']
 

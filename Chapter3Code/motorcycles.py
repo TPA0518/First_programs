@@ -31,5 +31,5 @@ print("The first motorcycle I owned was a " + firstOwnedMotorcycle + ".")
 expensiveMotorcycle = 'BMW'
 motorcycles.remove(expensiveMotorcycle)
 print(motorcycles)
-print("A " + expensiveMotorcycle.title() + " is too expensive for me.")
+print("A " + expensiveMotorcycle.title() + " is too expensive for me")
 
